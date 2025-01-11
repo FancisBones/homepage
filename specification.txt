@@ -1,0 +1,7 @@
+It has four HTML pages (index.html, about.html, projects.html, and contact.html) with navigation between them.
+It uses more than 10 distinct HTML tags (e.g., <nav>, <header>, <main>, <section>, <h1>, <h2>, <p>, <ul>, <li>, <form>, <input>, <textarea>, <button>, <footer>).
+It integrates Bootstrap for responsive design and components.
+It has a custom CSS file (styles.css) with more than 5 different selectors and properties.
+It includes JavaScript interactivity for form validation and a simple animation effect.
+The site is responsive and should look good on both mobile and desktop devices.
+
